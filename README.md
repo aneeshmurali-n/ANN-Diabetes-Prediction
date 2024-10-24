@@ -26,8 +26,8 @@ The project utilizes the diabetes dataset from scikit-learn, which contains data
 
 1. Clone the repository
 2. Install the required libraries
-3. Run the Jupyter Notebook: `jupyter notebook Diabetes_Prediction.ipynb`
-4. **Or, run the notebook in Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ANN-Diabetes-Prediction/blob/main/Diabetes_Prediction.ipynb)
+3. Run the Jupyter Notebook: `DL_ANN_Diabetes_Progression_Prediction.ipynb`
+4. **Or, run the notebook in Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aneeshmurali-n/ANN-Diabetes-Prediction/blob/main/DL_ANN_Diabetes_Progression_Prediction.ipynb)
 
 
 ## Results
